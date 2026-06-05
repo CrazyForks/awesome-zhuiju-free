@@ -10,16 +10,22 @@
       "category": "online_video",
       "summary": "中央广播电视总台的节目与频道观看入口。",
       "summary_short": "总台节目与频道观看入口",
-      "tags": ["官方", "电视", "中文"],
+      "tags": [
+        "官方",
+        "电视",
+        "中文"
+      ],
       "access": {
         "requires_login": false,
         "free_level": "mostly_free",
-        "regions": ["CN"]
+        "regions": [
+          "CN"
+        ]
       },
       "scores": {
         "more": 3.5,
         "speed": 4.5,
-        "clean": 4.0,
+        "clean": 4,
         "stable": 4.8,
         "ease": 4.2
       },
@@ -48,18 +54,24 @@
       "category": "online_video",
       "summary": "电影频道旗下的正版电影内容与影视资讯平台。",
       "summary_short": "正版电影内容与影视资讯",
-      "tags": ["官方", "电影", "中文"],
+      "tags": [
+        "官方",
+        "电影",
+        "中文"
+      ],
       "access": {
         "requires_login": false,
         "free_level": "partly_free",
-        "regions": ["CN"]
+        "regions": [
+          "CN"
+        ]
       },
       "scores": {
         "more": 3.8,
         "speed": 4.2,
         "clean": 3.5,
         "stable": 4.5,
-        "ease": 4.0
+        "ease": 4
       },
       "risks": {
         "copyright": "low",
@@ -86,15 +98,21 @@
       "category": "online_video",
       "summary": "Internet Archive 的电影与视频资料集合，包含公共领域和用户上传内容。",
       "summary_short": "公共领域与用户上传视频资料",
-      "tags": ["公共领域", "历史影像", "英文"],
+      "tags": [
+        "公共领域",
+        "历史影像",
+        "英文"
+      ],
       "access": {
         "requires_login": false,
         "free_level": "free",
-        "regions": ["GLOBAL"]
+        "regions": [
+          "GLOBAL"
+        ]
       },
       "scores": {
         "more": 4.2,
-        "speed": 3.0,
+        "speed": 3,
         "clean": 4.8,
         "stable": 4.6,
         "ease": 3.5
@@ -124,11 +142,17 @@
       "category": "subtitles",
       "summary": "多语言社区字幕搜索与下载平台。",
       "summary_short": "多语言社区字幕搜索与下载",
-      "tags": ["字幕", "多语言", "社区上传"],
+      "tags": [
+        "字幕",
+        "多语言",
+        "社区上传"
+      ],
       "access": {
         "requires_login": false,
         "free_level": "partly_free",
-        "regions": ["GLOBAL"]
+        "regions": [
+          "GLOBAL"
+        ]
       },
       "scores": {
         "more": 4.8,
@@ -162,16 +186,22 @@
       "category": "player",
       "summary": "开源、跨平台的家庭媒体中心软件。",
       "summary_short": "开源、跨平台家庭媒体中心",
-      "tags": ["开源", "播放器", "跨平台"],
+      "tags": [
+        "开源",
+        "播放器",
+        "跨平台"
+      ],
       "access": {
         "requires_login": false,
         "free_level": "free",
-        "regions": ["GLOBAL"]
+        "regions": [
+          "GLOBAL"
+        ]
       },
       "scores": {
         "more": 4.5,
-        "speed": 4.0,
-        "clean": 5.0,
+        "speed": 4,
+        "clean": 5,
         "stable": 4.8,
         "ease": 3.8
       },
@@ -200,18 +230,24 @@
       "category": "subscription",
       "summary": "社区维护的公开 IPTV 频道集合与相关数据。",
       "summary_short": "社区维护的公开 IPTV 频道集合",
-      "tags": ["IPTV", "开源", "订阅源"],
+      "tags": [
+        "IPTV",
+        "开源",
+        "订阅源"
+      ],
       "access": {
         "requires_login": false,
         "free_level": "free",
-        "regions": ["GLOBAL"]
+        "regions": [
+          "GLOBAL"
+        ]
       },
       "scores": {
         "more": 4.5,
         "speed": 3.5,
-        "clean": 5.0,
-        "stable": 4.0,
-        "ease": 3.0
+        "clean": 5,
+        "stable": 4,
+        "ease": 3
       },
       "risks": {
         "copyright": "medium",
@@ -238,11 +274,17 @@
       "category": "magnet_search",
       "summary": "面向科研数据集与论文附件的 BitTorrent 分发平台。",
       "summary_short": "面向科研数据集的 BitTorrent 分发平台",
-      "tags": ["科研", "数据集", "BitTorrent"],
+      "tags": [
+        "科研",
+        "数据集",
+        "BitTorrent"
+      ],
       "access": {
         "requires_login": false,
         "free_level": "free",
-        "regions": ["GLOBAL"]
+        "regions": [
+          "GLOBAL"
+        ]
       },
       "scores": {
         "more": 2.8,
@@ -268,6 +310,45 @@
         "added_at": "2026-06-06"
       },
       "featured": true
+    },
+    {
+      "id": "kuake-so-1",
+      "name": "夸克点搜",
+      "url": "https://www.kuake.so/",
+      "category": "cloud_search",
+      "summary": "夸克点搜是一个免费的夸克网盘资源搜索平台。通过聚合互联网上公开分享的夸克网盘资源链接， 为用户提供快速、精准的搜索服务。",
+      "tags": [],
+      "access": {
+        "requires_login": false,
+        "free_level": "unknown",
+        "regions": [
+          "GLOBAL"
+        ]
+      },
+      "scores": {
+        "more": 3,
+        "speed": 3,
+        "clean": 3,
+        "stable": 3,
+        "ease": 3
+      },
+      "risks": {
+        "copyright": "unknown",
+        "safety": "unknown",
+        "privacy": "unknown",
+        "payment": "unknown"
+      },
+      "verification": {
+        "status": "pending",
+        "last_checked": "2026-06-06",
+        "method": "manual",
+        "notes": "候选资源，等待维护者验证。提交者风险说明：无广告"
+      },
+      "source": {
+        "submitted_by": "@laoma2053",
+        "added_at": "2026-06-06"
+      },
+      "featured": false
     }
   ]
 }
